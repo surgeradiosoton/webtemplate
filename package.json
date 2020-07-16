@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "sirv-cli": "^0.4.4",
+    "surge": "^1.0.0",
     "svelte-preprocess": "^2.15.0"
   }
 }
